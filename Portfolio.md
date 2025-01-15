@@ -13,14 +13,14 @@ A streaming app that will let you watch a content from channel 3 for a various c
 - Update UI following new design.
 <br/>
 
-|             Tech Used             |       Framework       |
-|-----------------------------------|-----------------------|
-|- Firebase Crashlytics             |- ObjectMapper         |
-|- Google Analytic 4                |- Alamofire            |
-|- Google Mobile Ads, Google IMA    |- Kingfisher           |
-|- CocoaPods, Swift Package Manager |- iCarousel            |
-|- Clean Swift                      |- DZNEmptyDataSet      |
-|- Bitrise                          |- OpenWrapSDK          |
+|             Tech Used             |     Framework     |
+|-----------------------------------|-------------------|
+|- Firebase Crashlytics             |- ObjectMapper     |
+|- Google Analytic 4                |- Alamofire        |
+|- Google Mobile Ads, Google IMA    |- Kingfisher       |
+|- CocoaPods, Swift Package Manager |- iCarousel        |
+|- Clean Swift, MVVM                |- DZNEmptyDataSet  |
+|- Bitrise                          |- OpenWrapSDK      |
 <br/>
 
 <img src="https://github.com/user-attachments/assets/0041bd8b-2300-4ea8-9b10-66fb448fbcd3" alt="" width="auto" height="auto"><br/>
@@ -42,13 +42,13 @@ You also can find a good coupons, promotions from almost every brand in this app
 - Create a tool tip view when user first create a post.
 <br/>
 
-|           Tech Used           |     Framework     |
-|-------------------------------|-------------------|
-|- Firebase App Distribution    |- Apollo           |
-|- Firebase Crashlytics         |- Kingfisher       |
-|- Google Analytic 4            |- SkeletonView     |
-|- CocoaPods                    |                   |
-|- Clean Swift                  |                   |
+|          Tech Used          |    Framework    |
+|-----------------------------|-----------------|
+|- Firebase App Distribution  |- Apollo         |
+|- Firebase Crashlytics       |- Kingfisher     |
+|- Google Analytic 4          |- SkeletonView   |
+|- CocoaPods                  |                 |
+|- Clean Swift                |                 |
 <br/>
 
 <img src="https://github.com/user-attachments/assets/0362af30-f4fa-4ccf-a243-92d5d6032411" alt="" width="auto" height="auto"><br/><br/>
@@ -69,12 +69,12 @@ A real-estate app that will let you sell, rent or buy an asset and also let you 
 - Create a sticker keyboard.
 <br/>
 
-|          Tech Used          |     Framework     |
-|-----------------------------|-------------------|
-|- Firebase App Distribution  |- ObjectMapper     |
-|- Firebase Crashlytics       |- Alamofire        |
-|- CocoaPods                  |- SDWebImage       |
-|- MVVM, MVC                  |- SkeletonView     |
+|          Tech Used          |    Framework    |
+|-----------------------------|-----------------|
+|- Firebase App Distribution  |- ObjectMapper   |
+|- Firebase Crashlytics       |- Alamofire      |
+|- CocoaPods                  |- SDWebImage     |
+|- MVVM, MVC                  |- SkeletonView   |
 <br/>
 
 <img src="https://github.com/user-attachments/assets/4b8ae9b2-4a18-4292-a1ec-fd7f7eeb1de0" alt="" width="auto" height="auto"><br/>
@@ -82,6 +82,36 @@ A real-estate app that will let you sell, rent or buy an asset and also let you 
 <img src="https://github.com/user-attachments/assets/3ac242a7-7b65-4215-a329-5caea80fa634" alt="" width="auto" height="auto"><br/>
 
 <img src="https://github.com/user-attachments/assets/3699f080-b5b1-4fb5-9c52-bce1b4b95530" alt="" width="auto" height="auto"><br/><br/>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/user-attachments/assets/a6457a7e-7257-4f5a-82aa-ae7d9ededffe" alt="" width="80" height="80">
+
+## MChoice
+A banking app that will let you manage your money.
+<br/>
+
+#### My Contribution
+- Create a new login view.
+- Create a new home view.
+- Create a new transfer money view using QR code.
+- Update UI following design.
+<br/>
+
+|          Tech Used          |    Framework    |
+|-----------------------------|-----------------|
+|- Firebase Cloud Messaging   |- 3M             |
+|- Firebase Dynamic Links     |- Slide menu     |
+|- Firebase App Distribution  |- iCarousel      |
+|- Firebase Crashlytics       |- SDWebImage     |
+|- CocoaPods                  |- Chart          |
+|- MVC                        |- ObjectMapper   |
+|                             |- Alamofire      |
+<br/>
+
+<img src="https://github.com/user-attachments/assets/9f25d81e-e1d5-4eae-a2d9-d2ecf126dbde" alt="" width="auto" height="auto"><br/>
+
+<img src="https://github.com/user-attachments/assets/bb5695fe-a102-4e16-ad8c-2e3070fbbdeb" alt="" width="auto" height="auto"><br/><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------
 
