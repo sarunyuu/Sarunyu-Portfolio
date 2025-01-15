@@ -15,12 +15,12 @@ A streaming app that will let you watch a content from channel 3 for a various c
 
 |             Tech Used             |     Framework     |
 |-----------------------------------|-------------------|
-|- Firebase Crashlytics             |- ObjectMapper     |
-|- Google Analytic 4                |- Alamofire        |
-|- Google Mobile Ads, Google IMA    |- Kingfisher       |
-|- CocoaPods, Swift Package Manager |- iCarousel        |
-|- Clean Swift, MVVM                |- DZNEmptyDataSet  |
-|- Bitrise                          |- OpenWrapSDK      |
+| Firebase Crashlytics              | ObjectMapper      |
+| Google Analytic 4                 | Alamofire         |
+| Google Mobile Ads, Google IMA     | Kingfisher        |
+| CocoaPods, Swift Package Manager  | iCarousel         |
+| Clean Swift, MVVM                 | DZNEmptyDataSet   |
+| Bitrise                           | OpenWrapSDK       |
 <br/>
 
 <img src="https://github.com/user-attachments/assets/0041bd8b-2300-4ea8-9b10-66fb448fbcd3" alt="" width="auto" height="auto"><br/>
@@ -44,11 +44,11 @@ You also can find a good coupons, promotions from almost every brand in this app
 
 |          Tech Used          |    Framework    |
 |-----------------------------|-----------------|
-|- Firebase App Distribution  |- Apollo         |
-|- Firebase Crashlytics       |- Kingfisher     |
-|- Google Analytic 4          |- SkeletonView   |
-|- CocoaPods                  |                 |
-|- Clean Swift                |                 |
+| Firebase App Distribution   | Apollo          |
+| Firebase Crashlytics        | Kingfisher      |
+| Google Analytic 4           | SkeletonView    |
+| CocoaPods                   |                 |
+| Clean Swift                 |                 |
 <br/>
 
 <img src="https://github.com/user-attachments/assets/0362af30-f4fa-4ccf-a243-92d5d6032411" alt="" width="auto" height="auto"><br/><br/>
@@ -71,10 +71,10 @@ A real-estate app that will let you sell, rent or buy an asset and also let you 
 
 |          Tech Used          |    Framework    |
 |-----------------------------|-----------------|
-|- Firebase App Distribution  |- ObjectMapper   |
-|- Firebase Crashlytics       |- Alamofire      |
-|- CocoaPods                  |- SDWebImage     |
-|- MVVM, MVC                  |- SkeletonView   |
+| Firebase App Distribution   | ObjectMapper    |
+| Firebase Crashlytics        | Alamofire       |
+| CocoaPods                   | SDWebImage      |
+| MVVM, MVC                   | SkeletonView    |
 <br/>
 
 <img src="https://github.com/user-attachments/assets/4b8ae9b2-4a18-4292-a1ec-fd7f7eeb1de0" alt="" width="auto" height="auto"><br/>
@@ -100,13 +100,13 @@ A banking app that will let you manage your money.
 
 |          Tech Used          |    Framework    |
 |-----------------------------|-----------------|
-|- Firebase Cloud Messaging   |- 3M             |
-|- Firebase Dynamic Links     |- Slide menu     |
-|- Firebase App Distribution  |- iCarousel      |
-|- Firebase Crashlytics       |- SDWebImage     |
-|- CocoaPods                  |- Chart          |
-|- MVC                        |- ObjectMapper   |
-|                             |- Alamofire      |
+| Firebase Cloud Messaging    | 3M              |
+| Firebase Dynamic Links      | Slide menu      |
+| Firebase App Distribution   | iCarousel       |
+| Firebase Crashlytics        | SDWebImage      |
+| CocoaPods                   | Chart           |
+| MVC                         | ObjectMapper    |
+|                             | Alamofire       |
 <br/>
 
 <img src="https://github.com/user-attachments/assets/9f25d81e-e1d5-4eae-a2d9-d2ecf126dbde" alt="" width="auto" height="auto"><br/>
@@ -132,14 +132,14 @@ An internet calling management app to demonstrate a customer how to use a SipUA 
 
 |          Tech Used          |   Framework   |
 |-----------------------------|---------------|
-|- Firebase Cloud Messaging   |- Linphone     |
-|- Firebase Dynamic Links     |- SipUA        |
-|- Firebase App Distribution  |               |
-|- Firebase Crashlytics       |               |
-|- PushKit                    |               |
-|- CallKit                    |               |
-|- CoreTelephony              |               |
-|- MVVM, MVC                  |               |
+| Firebase Cloud Messaging    | Linphone      |
+| Firebase Dynamic Links      | SipUA         |
+| Firebase App Distribution   |               |
+| Firebase Crashlytics        |               |
+| PushKit                     |               |
+| CallKit                     |               |
+| CoreTelephony               |               |
+| MVVM, MVC                   |               |
 <br/>
 
 #### Raw UI
