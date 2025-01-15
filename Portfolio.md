@@ -115,7 +115,37 @@ A banking app that will let you manage your money.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+<img src="https://github.com/user-attachments/assets/300759a2-e8c8-4890-ae4c-c927abbce171" alt="" width="80" height="80">
 
+## SipUA
+An internet calling management app to demonstrate a customer how to use a SipUA SDK such as voice/video calling, sending message and voice call conference.
+<br/>
 
+#### My working process
+- Our customer want to their app can be able to calling using an internet.
+- The final decision is using open source library called “Linphone”.
+- A linphone library is quite complicated to build and implement.
+- My job is developing a library(Static Library) to manage an implementing process for linphone library.
+- I name this library SipUA. Because it using a SIP protocol to control a stream line for audio/video/text.
+- I also create a demo app called SipUA app to show the implementation for SipUA library.
+<br/>
 
+|          Tech Used          |   Framework   |
+|-----------------------------|---------------|
+|- Firebase Cloud Messaging   |- Linphone     |
+|- Firebase Dynamic Links     |- SipUA        |
+|- Firebase App Distribution  |               |
+|- Firebase Crashlytics       |               |
+|- PushKit                    |               |
+|- CallKit                    |               |
+|- CoreTelephony              |               |
+|- MVVM, MVC                  |               |
+<br/>
+
+#### Raw UI
+<img src="https://github.com/user-attachments/assets/e56554cf-1d04-4abd-ab55-34d127747f6e" alt="" width="auto" height="auto"><br/>
+
+<img src="https://github.com/user-attachments/assets/1dce08a7-05b5-4ef0-9cd7-758cb10598e5" alt="" width="auto" height="auto"><br/>
+
+<img src="https://github.com/user-attachments/assets/d69114fc-fe72-4298-a6a5-69846e9f6a23" alt="" width="810" height="auto"><br/><br/>
 
