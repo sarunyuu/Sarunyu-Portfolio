@@ -130,16 +130,13 @@ An internet calling management app to demonstrate a customer how to use a SipUA 
 - I also create a demo app called SipUA app to show the implementation for SipUA library.
 <br/>
 
-|          Tech Used          |   Framework   |
-|-----------------------------|---------------|
-| Firebase Cloud Messaging    | Linphone      |
-| Firebase Dynamic Links      | SipUA         |
-| Firebase App Distribution   |               |
-| Firebase Crashlytics        |               |
-| PushKit                     |               |
-| CallKit                     |               |
-| CoreTelephony               |               |
-| MVVM, MVC                   |               |
+|          Tech Used          |    Framework    |
+|-----------------------------|-----------------|
+| Firebase Cloud Messaging    | Linphone        |
+| Firebase Dynamic Links      | SipUA           |
+| Firebase App Distribution   | PushKit         |
+| Firebase Crashlytics        | CallKit         |
+| MVVM, MVC                   | CoreTelephony   |
 <br/>
 
 #### Raw UI
